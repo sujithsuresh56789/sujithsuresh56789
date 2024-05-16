@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistics, Linear Algebra, GenAI**
 
-- 📫 How to reach me **sujithsuresh56789@gmail.com**
+- 📫 You can reach me at **sujithsuresh56789@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
