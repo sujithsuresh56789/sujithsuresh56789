@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/sujiths80332050" target="blank"><img src="https://img.shields.io/twitter/follow/sujiths80332050?logo=twitter&style=for-the-badge" alt="sujiths80332050" /></a> </p>
 
-- 🔭 I’m currently working on **Retrieval Augmented Generation**
+- 🔭 I’m currently working on **Retrieval Augmented Generation and Image Recognition Techniques**
 
-- 🌱 I’m currently learning **Pytorch, Langchain**
+- 🌱 I’m currently learning **PyTorch, LangChain and LangGraph**
 
 - 👨‍💻 All of my projects are available at [https://sujithsuresh56789.github.io/My_Website/](https://sujithsuresh56789.github.io/My_Website/)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Statistics, Linear Algebra, GenAI**
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Statistics, Linear Algebra, GenAI, Computer Vision and latest news related to tech.**
 
-- 📫 You can reach me at **sujithsuresh56789@gmail.com**
+- 📫 You can reach me at **sujithgermany910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
